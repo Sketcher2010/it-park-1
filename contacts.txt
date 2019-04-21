@@ -1,0 +1,13 @@
+Виктор Евлампьев
+http://vk.com/sketcher2010
+telegram: @Sketcher2010
+
++79178821142
+
+viktor.evlampev@gmail.com
+
+Нужно скачать: php, PhpStorm
+PHP: https://windows.php.net/downloads/releases/php-7.3.4-Win32-VC15-x64.zip
+PhpStorm: https://www.jetbrains.com/phpstorm/
+
+
